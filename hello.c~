@@ -1,0 +1,12 @@
+#include <stdio.h>
+
+main() 
+{
+
+  int marco
+    
+    for(marco = 0; marco <= 15; marco = marco 100)
+      printf("%3d\n", marco, marco+10);
+     
+  
+}
